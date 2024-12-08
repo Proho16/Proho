@@ -1,0 +1,25 @@
+https://steamcommunity.com/sharedfiles/filedetails/?id=2726809647
+[h1]Deutsche Übersetzung von Kaiserreich (1.3.3) - HOI 4 (1.15.*)[/h1]
+
+ - Testmod für Kaiserreich V. 1.3.3
+ - Kaiserreich.mod version = "1.3.3" wird benötigt.
+
+Version 1.3.3.0.1 (von 360 Dateien 338 übersetzt, Rest Englisch)
+
+ https://steamcommunity.com/sharedfiles/filedetails/?id=2319740642
+
+/neu : IRE - Ireland (71 %), 
+
+/gefixt : ca. 60 Dateien
+
+/entfernt :  
+
+Nicht Übersetzte Dateien:
+
+ARG - Argentina, BRA - Brazil, CHI - Left Kuomintang, COS - Costa Rica, CUB - Cuba, DEN - Denmark, EQG - Equatorial Guinea, FNG - Fengtian, FOP - Patagonia, GNB - Gabu, HNN - Hunan, INC - Indochinese Union, IRE - Ireland (29 %), LEP - League of Eight Provinces, MON - Mongolia, NIC - Nicaragua, QIE - Qing, SAR - Sarawak, SIA - Siam, SQI - Shandong, SUR - Suriname, SZC - Sichuan,
+
+Kaiserreich Deutsch Discord Channel: https://discord.gg/RTFRPDBpUb
+
+Deutsches Übersetzungs-Team:
+Aktivisten: Proho, SimonStaysNuclear, Thylon, 
+Veteranen: DerEherneRächer, Itzy, Omitier, XYungeloest, Schmiddlon, _R4ze_, Davideko, Hydrus, MartenDE, Chromsh, DickSharpe, Semarc, Wolf, Silent_Wolf, Alex S, naskamo, Quatschtütenwürger
