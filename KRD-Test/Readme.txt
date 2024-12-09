@@ -3,7 +3,7 @@
 #################################
 
 Vielen Dank, dass Sie Kaiserreich für Hearts of Iron 4 heruntergeladen haben!
-Diese Version wurde für Hearts of Iron IV Version 1.15 entwickelt.
+Diese Version wurde für Hearts of Iron IV Version 1.15.1 entwickelt.
 Sie sollte mit allen Hotfixes kompatibel sein, aber das ist nicht garantiert.
 
 Manuelle Installationsanweisungen
